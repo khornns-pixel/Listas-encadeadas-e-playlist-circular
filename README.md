@@ -40,9 +40,3 @@ A estrutura foi estendida para conter os ponteiros `prox` e `ant`.
 * **Circularidade:** Na inserção, garantimos que o ponteiro `prox` do último nó aponte para o `head`, e o ponteiro `ant` do `head` aponte para o último nó.
 * **Navegação:** As funções `proximaMusica` e `musicaAnterior` apenas movem o ponteiro atual para o endereço guardado em `prox` ou `ant`.
 * **Controle Anti-Loop:** Para evitar loops infinitos nas listagens ou reproduções, a função `totalMusicas` conta os elementos dando apenas uma volta completa na estrutura (parando quando o ponteiro retorna ao `head`). Esse total é usado como limite nos laços de repetição de simulação.
-## Funções Implementadas:
-* **Parte 1:** Inserção em Posição Específica (`inserirPosicao`)
-* **Parte 2:** Busca por Valor (`buscarValor`)
-* **Parte 3:** Inversão da Lista Encadeada Simples (`inverterLista`)
-* **Parte 4:** Divisão de Lista usando Ponteiro Rápido/Lento (`dividirLista`)
-* **Parte 5:** Playlist Circular Duplamente Encadeada com controle anti-loop
