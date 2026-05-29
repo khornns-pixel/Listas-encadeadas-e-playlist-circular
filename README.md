@@ -2,10 +2,10 @@
 
 Trabalho prático sobre manipulação de Listas Encadeadas Simples e Playlist Circular Duplamente Encadeada desenvolvido para a disciplina de Estrutura de Dados.
 
-## Integrantes do Grupo:
-* Ketely Hornns Duarte Vicente - RA: 25251461-2
-* Nome do Integrante 2 - RA: XXXXXXX
-* Nome do Integrante 3 - RA: XXXXXXX
+Integrantes do Grupo:
+- Ketely Hornns Duarte Vicente - RA: 25251461-2
+- Gabriel Cesar Marteloti da Luz - RA: 25068651-2
+- Arthur Pacher dos Santos - RA: 25185872-2
 
 Explicação da Solução Implementada:
 
